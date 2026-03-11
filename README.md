@@ -3,7 +3,8 @@
 - 💻 Estudante de Desenvolvimento de Sistemas
 - 🚀 Atualmente aprendendo Python, HTML e CSS
 - 🧠 Interessado em tecnologia, automação e inovação digital
-- 📧 Contato:,
+
+ ## 📧 Contato
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juniorhlima)
   
