@@ -3,4 +3,5 @@
 - 💻 Estudante de Desenvolvimento de Sistemas
 - 🚀 Atualmente aprendendo Python, HTML e CSS
 - 🧠 Interessado em tecnologia, automação e inovação digital
-- 📧 Contato: juniorhenriquelimapaulo@gmail.com
+- 📧 Contato:
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:juniorhenriquelimapaulo@gmail.com)
